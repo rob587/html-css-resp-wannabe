@@ -136,16 +136,13 @@ img {
 
 
  @media screen and (max-width:480px) {
-    .container .row{
+    .container .row {
        flex-direction:column ;
        align-items: center;
        justify-content: center;
        width: 100%;
     }
- }
-
- @media screen and (max-width:480px) {
-    .container .col {
+        .container .col {
        flex-direction:column ;
        align-items: center;
        width: 100%;
